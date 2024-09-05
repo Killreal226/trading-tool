@@ -1,0 +1,900 @@
+{
+    "name": "MOEX",
+    "children": [
+        {
+            "sector": "consumer",
+            "children": [
+                {
+                    "ticker": "DSKY",
+                    "cap": 52749820000.0,
+                    "log_cap": 73.38,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "MGNT",
+                    "cap": 545021926540.0,
+                    "log_cap": 80.32,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "HHRU",
+                    "cap": 110082055280.0,
+                    "log_cap": 75.56,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "OKEY",
+                    "cap": 8596914300.0,
+                    "log_cap": 67.98,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "GCHE",
+                    "cap": 132070547376.0,
+                    "log_cap": 76.1,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "AQUA",
+                    "cap": 54571399029.0,
+                    "log_cap": 73.48,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "OZON",
+                    "cap": 423413468614.5,
+                    "log_cap": 79.57,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "ABRD",
+                    "cap": 32908461787.2,
+                    "log_cap": 71.97,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "SVAV",
+                    "cap": 27536072756.5,
+                    "log_cap": 71.44,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "FIXP",
+                    "cap": 315945000000.0,
+                    "log_cap": 78.7,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "AGRO",
+                    "cap": 132405756638.40001,
+                    "log_cap": 76.11,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "AFLT",
+                    "cap": 164755959149.6,
+                    "log_cap": 76.76,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "MVID",
+                    "cap": 34245847243.5,
+                    "log_cap": 72.09,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "FIVE",
+                    "cap": 419444300804.0,
+                    "log_cap": 79.54,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "LENT",
+                    "cap": 86234993969.5,
+                    "log_cap": 74.84,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "KROT",
+                    "cap": 16840524141.0,
+                    "log_cap": 69.98,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "RUGR",
+                    "cap": 682585920.0,
+                    "log_cap": 60.45,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "APTK",
+                    "cap": 101912074180.056,
+                    "log_cap": 75.33,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "BELU",
+                    "cap": 66691800000.0,
+                    "log_cap": 74.07,
+                    "price_delta": 0
+                }
+            ]
+        },
+        {
+            "sector": "industrials",
+            "children": [
+                {
+                    "ticker": "IRKT",
+                    "cap": 126152413832.5,
+                    "log_cap": 75.97,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "UNAC",
+                    "cap": 389312509376.9295,
+                    "log_cap": 79.32,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "NKHP",
+                    "cap": 45526579500.0,
+                    "log_cap": 72.94,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "FLOT",
+                    "cap": 208334464995.72,
+                    "log_cap": 77.46,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "UWGN",
+                    "cap": 19591840772.100002,
+                    "log_cap": 70.43,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "GLTR",
+                    "cap": 82048621297.05,
+                    "log_cap": 74.69,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "KMAZ",
+                    "cap": 144982059595.0,
+                    "log_cap": 76.38,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "GTRK",
+                    "cap": 4685738918.0,
+                    "log_cap": 66.18,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "MSTT",
+                    "cap": 62284960850.0,
+                    "log_cap": 73.87,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "RKKE",
+                    "cap": 26733853000.0,
+                    "log_cap": 71.36,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "FESH",
+                    "cap": 193690537500.0,
+                    "log_cap": 77.24,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "NMTP",
+                    "cap": 176227310910.0,
+                    "log_cap": 76.96,
+                    "price_delta": 0
+                }
+            ]
+        },
+        {
+            "sector": "materials",
+            "children": [
+                {
+                    "ticker": "VSMO",
+                    "cap": 564255589720.0,
+                    "log_cap": 80.42,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "KZOSP",
+                    "cap": 3477851680.0,
+                    "log_cap": 65.29,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "PHOR",
+                    "cap": 957134500000.0,
+                    "log_cap": 81.99,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "LNZL",
+                    "cap": 17127306000.0,
+                    "log_cap": 70.03,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "SELG",
+                    "cap": 54085300000.0,
+                    "log_cap": 73.45,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "MAGN",
+                    "cap": 534188845650.0,
+                    "log_cap": 80.26,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "RUAL",
+                    "cap": 632637138853.68,
+                    "log_cap": 80.76,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "ALRS",
+                    "cap": 538378987552.99994,
+                    "log_cap": 80.28,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "PRFN",
+                    "cap": 3199743196.65,
+                    "log_cap": 65.05,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "UNKL",
+                    "cap": 5991372630.0,
+                    "log_cap": 66.91,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "NKNC",
+                    "cap": 196412106400.0,
+                    "log_cap": 77.28,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "ROLO",
+                    "cap": 22056735200.0,
+                    "log_cap": 70.78,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "KAZTP",
+                    "cap": 2371678249.6,
+                    "log_cap": 64.16,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "AMEZ",
+                    "cap": 33725453256.519997,
+                    "log_cap": 72.05,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "TRMK",
+                    "cap": 160735200242.28,
+                    "log_cap": 76.69,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "CHMF",
+                    "cap": 1007943091712.0,
+                    "log_cap": 82.14,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "ENPG",
+                    "cap": 309202865664.0,
+                    "log_cap": 78.63,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "POLY",
+                    "cap": 265704320079.0,
+                    "log_cap": 78.18,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "NKNCP",
+                    "cap": 18342078900.0,
+                    "log_cap": 70.24,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "KZOS",
+                    "cap": 205466621400.0,
+                    "log_cap": 77.42,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "BLNG",
+                    "cap": 27835749999.999996,
+                    "log_cap": 71.48,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "MTLR",
+                    "cap": 76943484505.8,
+                    "log_cap": 74.5,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "AKRN",
+                    "cap": 698974078496.0,
+                    "log_cap": 81.06,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "KAZT",
+                    "cap": 148683979365.0,
+                    "log_cap": 76.46,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "CHMK",
+                    "cap": 20173336700.0,
+                    "log_cap": 70.52,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "NLMK",
+                    "cap": 1092085867672.8,
+                    "log_cap": 82.38,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "LNZLP",
+                    "cap": 1086562500.0,
+                    "log_cap": 61.84,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "RASP",
+                    "cap": 196857519552.6,
+                    "log_cap": 77.29,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "SGZH",
+                    "cap": 96571950000.0,
+                    "log_cap": 75.17,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "GMKN",
+                    "cap": 2319243459284.0,
+                    "log_cap": 84.62,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "PLZL",
+                    "cap": 1460228766100.0,
+                    "log_cap": 83.24,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "MTLRP",
+                    "cap": 27626501776.5,
+                    "log_cap": 71.45,
+                    "price_delta": 0
+                }
+            ]
+        },
+        {
+            "sector": "telecom",
+            "children": [
+                {
+                    "ticker": "TTLK",
+                    "cap": 15205680783.800001,
+                    "log_cap": 69.68,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "RTKM",
+                    "cap": 238279989686.82,
+                    "log_cap": 77.86,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "MTSS",
+                    "cap": 594718356720.0,
+                    "log_cap": 80.58,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "NSVZ",
+                    "cap": 1227107682.0,
+                    "log_cap": 62.2,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "CNTL",
+                    "cap": 2522415060.0,
+                    "log_cap": 64.34,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "RTKMP",
+                    "cap": 15539255650.050001,
+                    "log_cap": 69.74,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "MGTSP",
+                    "cap": 18120401056.0,
+                    "log_cap": 70.2,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "VEON-RX",
+                    "cap": 87718739310.59999,
+                    "log_cap": 74.89,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "YNDX",
+                    "cap": 773039569176.0,
+                    "log_cap": 81.35,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "CNTLP",
+                    "cap": 675745800.0,
+                    "log_cap": 60.42,
+                    "price_delta": 0
+                }
+            ]
+        },
+        {
+            "sector": "real_estate",
+            "children": [
+                {
+                    "ticker": "ETLN",
+                    "cap": 34464069136.56,
+                    "log_cap": 72.11,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "PIKK",
+                    "cap": 503827374003.19995,
+                    "log_cap": 80.08,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "LSRG",
+                    "cap": 73213270779.0,
+                    "log_cap": 74.35,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "SMLT",
+                    "cap": 189048629060.0,
+                    "log_cap": 77.17,
+                    "price_delta": 0
+                }
+            ]
+        },
+        {
+            "sector": "other",
+            "children": [
+                {
+                    "ticker": "WUSH",
+                    "cap": 24504135040.0,
+                    "log_cap": 71.1,
+                    "price_delta": 0
+                }
+            ]
+        },
+        {
+            "sector": "it",
+            "children": [
+                {
+                    "ticker": "VKCO",
+                    "cap": 144151649088.0,
+                    "log_cap": 76.36,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "SFTL",
+                    "cap": 28771675116.800003,
+                    "log_cap": 71.57,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "CIAN",
+                    "cap": 46465535200.0,
+                    "log_cap": 73.0,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "POSI",
+                    "cap": 130970400000.0,
+                    "log_cap": 76.08,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "QIWI",
+                    "cap": 32870206210.5,
+                    "log_cap": 71.97,
+                    "price_delta": 0
+                }
+            ]
+        },
+        {
+            "sector": "energy",
+            "children": [
+                {
+                    "ticker": "TATNP",
+                    "cap": 72854448150.0,
+                    "log_cap": 74.34,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "BANEP",
+                    "cap": 40839364452.0,
+                    "log_cap": 72.61,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "TATN",
+                    "cap": 1091524040700.0,
+                    "log_cap": 82.38,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "TRNFP",
+                    "cap": 215039212500.0,
+                    "log_cap": 77.55,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "SNGSP",
+                    "cap": 321519916320.07495,
+                    "log_cap": 78.75,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "NVTK",
+                    "cap": 4280584198800.0,
+                    "log_cap": 86.44,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "SNGS",
+                    "cap": 1009437980389.775,
+                    "log_cap": 82.15,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "ROSN",
+                    "cap": 5112560978920.8,
+                    "log_cap": 86.97,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "KRKNP",
+                    "cap": 3266314700.0,
+                    "log_cap": 65.11,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "ELFV",
+                    "cap": 20303469664.379997,
+                    "log_cap": 70.54,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "BANE",
+                    "cap": 272407155982.5,
+                    "log_cap": 78.25,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "GAZP",
+                    "cap": 3935011314238.0,
+                    "log_cap": 86.19,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "SIBN",
+                    "cap": 2490130570402.8003,
+                    "log_cap": 84.83,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "YAKG",
+                    "cap": 95715917656.25,
+                    "log_cap": 75.15,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "RNFT",
+                    "cap": 42735636000.0,
+                    "log_cap": 72.75,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "LKOH",
+                    "cap": 3783047060520.0,
+                    "log_cap": 86.07,
+                    "price_delta": 0
+                }
+            ]
+        },
+        {
+            "sector": "financial",
+            "children": [
+                {
+                    "ticker": "VTBR",
+                    "cap": 411106243034.4219,
+                    "log_cap": 79.48,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "CARM",
+                    "cap": 5323127169.030001,
+                    "log_cap": 66.56,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "TCSG",
+                    "cap": 310371703800.0,
+                    "log_cap": 78.64,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "MOEX",
+                    "cap": 278836414590.42,
+                    "log_cap": 78.32,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "CBOM",
+                    "cap": 228024050995.986,
+                    "log_cap": 77.73,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "SBER",
+                    "cap": 5233107934160.0,
+                    "log_cap": 87.04,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "SBERP",
+                    "cap": 242010000000.0,
+                    "log_cap": 77.9,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "BSPB",
+                    "cap": 75642059922.87001,
+                    "log_cap": 74.45,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "RENI",
+                    "cap": 47062509910.0,
+                    "log_cap": 73.04,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "SFIN",
+                    "cap": 55975188407.399994,
+                    "log_cap": 73.55,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "AFKS",
+                    "cap": 168305650000.0,
+                    "log_cap": 76.82,
+                    "price_delta": 0
+                }
+            ]
+        },
+        {
+            "sector": "utilities",
+            "children": [
+                {
+                    "ticker": "MRKP",
+                    "cap": 31713165715.9002,
+                    "log_cap": 71.86,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "DVEC",
+                    "cap": 27625864917.616,
+                    "log_cap": 71.45,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "TGKN",
+                    "cap": 14136213790.876741,
+                    "log_cap": 69.46,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "FEES",
+                    "cap": 211980048178.1431,
+                    "log_cap": 77.51,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "PMSB",
+                    "cap": 5714089488.0,
+                    "log_cap": 66.77,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "MSRS",
+                    "cap": 59325237537.131996,
+                    "log_cap": 73.72,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "IRAO",
+                    "cap": 414885600000.0,
+                    "log_cap": 79.51,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "VRSB",
+                    "cap": 20394051916.8,
+                    "log_cap": 70.55,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "OGKB",
+                    "cap": 74139151292.031,
+                    "log_cap": 74.39,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "TGKBP",
+                    "cap": 180185827.79652,
+                    "log_cap": 56.5,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "MRKU",
+                    "cap": 26876131307.5614,
+                    "log_cap": 71.37,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "MRKV",
+                    "cap": 8181980806.9054,
+                    "log_cap": 67.84,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "PMSBP",
+                    "cap": 1955072699.9999998,
+                    "log_cap": 63.58,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "LSNG",
+                    "cap": 133567715964.4,
+                    "log_cap": 76.14,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "MRKC",
+                    "cap": 18069278948.304,
+                    "log_cap": 70.19,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "TGKB",
+                    "cap": 7379528544.77982,
+                    "log_cap": 67.53,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "KLSB",
+                    "cap": 1915745046.18,
+                    "log_cap": 63.52,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "MRKZ",
+                    "cap": 3932012144.8149004,
+                    "log_cap": 65.66,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "HYDR",
+                    "cap": 374071230088.958,
+                    "log_cap": 79.2,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "LSNGP",
+                    "cap": 18648198984.45,
+                    "log_cap": 70.29,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "UPRO",
+                    "cap": 114622547771.61,
+                    "log_cap": 75.68,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "MRKS",
+                    "cap": 38210510789.347,
+                    "log_cap": 72.42,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "MSNG",
+                    "cap": 116505373280.7,
+                    "log_cap": 75.73,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "TGKA",
+                    "cap": 34658238017.806435,
+                    "log_cap": 72.13,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "MRKY",
+                    "cap": 7665474102.194699,
+                    "log_cap": 67.64,
+                    "price_delta": 0
+                }
+            ]
+        },
+        {
+            "sector": "health_care",
+            "children": [
+                {
+                    "ticker": "LIFE",
+                    "cap": 3311769302.08,
+                    "log_cap": 65.15,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "ISKJ",
+                    "cap": 9561010543.2,
+                    "log_cap": 68.3,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "GEMC",
+                    "cap": 24442814763.600002,
+                    "log_cap": 71.09,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "GECO",
+                    "cap": 2663636000.0,
+                    "log_cap": 64.5,
+                    "price_delta": 0
+                },
+                {
+                    "ticker": "MDMG",
+                    "cap": 48098226000.0,
+                    "log_cap": 73.1,
+                    "price_delta": 0
+                }
+            ]
+        }
+    ]
+}
